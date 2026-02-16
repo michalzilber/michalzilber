@@ -1,7 +1,5 @@
-<h2 align="center">👋 Hi, I'm Michal Zilber</h2>
-<p align="center">
+## 👋 Hi, I'm Michal Zilber
 Software Developer | Full-Stack Engineering | Scalable Web Systems
-</p>
 
 ---
 I’m a software developer with strong hands-on experience building reliable full-stack applications using modern frontend and backend technologies.
