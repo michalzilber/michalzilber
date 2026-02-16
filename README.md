@@ -2,6 +2,7 @@
 <p align="center">
 Software Developer | Full-Stack Engineering | Scalable Web Systems
 </p>
+
 ---
 I’m a software developer with strong hands-on experience building reliable full-stack applications using modern frontend and backend technologies.
 
