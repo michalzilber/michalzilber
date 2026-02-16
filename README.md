@@ -2,9 +2,7 @@
 <p align="center">
 Software Developer | Full-Stack Engineering | Scalable Web Systems
 </p>
-
 ---
-
 I’m a software developer with strong hands-on experience building reliable full-stack applications using modern frontend and backend technologies.
 
 I design and develop end-to-end systems — from database modeling and REST APIs to responsive user interfaces — with clean architecture, solid validation logic, and production-ready code.
