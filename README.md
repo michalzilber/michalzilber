@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Michal Zilber</h2>
+<h1 align="center">👋 Hi, I'm Michal Zilber</h1>
 <p align="center">
 Software Developer | Full-Stack Engineering | Scalable Web Systems
 </p>
